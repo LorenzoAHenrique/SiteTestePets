@@ -24,11 +24,11 @@ body {
 }
 
 .post {
-    background: #f6416c;
+    background: #ffde7d;
     padding: 20px;
-    border: 5px solid #ffde7d;
+    border: 5px solid #f6416c;
     margin-bottom: 15px;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 .post_content {
@@ -47,5 +47,9 @@ body {
 }
 
 .contact{
+    font-family: 'Times New Roman';
     color: black;
+}
+a {
+    font-style: italic;
 }
