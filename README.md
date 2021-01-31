@@ -2,11 +2,11 @@
 
 ## Lorenzo e Giovanna (Donos)
 
-- ### *Dakota (Border Collie)* :feet::sheep::ram::goat:
+- ### *Dakota (Border Collie)* :feet::sheep::ram::goat:.
 
-- ### *Akira (ChowChow)* :feet::bear:
+- ### *Akira (ChowChow)* :feet::bear:.
 
-- ### *Oscar (Peixe Oscar)* :tropical_fish:
+- ### *Oscar (Peixe Oscar)* :tropical_fish:.
 
-- ### *Dora (Jabuti)* :turtle:
+- ### *Dora (Jabuti)* :turtle:.
 
