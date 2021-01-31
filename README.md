@@ -1,6 +1,6 @@
 # Site Teste Pets :dog2:
 
-## Lorenzo e Giovanna (Donos) :couple:
+## Lorenzo e Giovanna (Donos) :couple::kiss:
 
 - ### *Dakota (Border Collie)* :feet::sheep::ram::goat:.
 
