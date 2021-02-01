@@ -26,7 +26,7 @@ body {
 
 .post {
     background: #ffde7d;
-    padding: 20px;
+    padding: 15px;
     border: 5px solid #f6416c;
     margin-bottom: 15px;
     border-radius: 15px;
@@ -36,6 +36,7 @@ body {
     margin: 0%;
     margin-bottom: 25px;
     color: #000000;
+    text-transform: initial;
 
 }
 
@@ -46,11 +47,21 @@ body {
     border-radius: 200px;
     margin-bottom: 15px;
 }
+.post a {
+    color:crimson;
+
+}
 
 .contact{
     font-family: 'Times New Roman';
     color: black;
 }
+
+.list_content {
+    list-style: none;
+    padding-left: 15px;
+}
+
 a {
     font-style: italic;
 }
