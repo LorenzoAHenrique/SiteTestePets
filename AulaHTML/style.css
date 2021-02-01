@@ -13,6 +13,7 @@ body {
 }
 
 .post_title {
+    color: rgb(24, 24, 104);
     font-size: 18px;
     font-style: italic;
     margin: 0;
