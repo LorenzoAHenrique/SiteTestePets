@@ -1,11 +1,16 @@
 body {
     background: #00b8a9;
     font-family: cursive ;
+    width: 900px;
+    max-width: 900px;
+    margin: auto;
 }
 
 .foto{
     border: 1px solid black;
-    border-radius: 360px;
+    border-radius: 100px;
+    width: 100px;
+    height: 100px;
 }
 
 #title, .subtitle, .post_title {
@@ -21,12 +26,13 @@ body {
 }
 
 .wrapper {
-min-width: 15%;
-max-width: 29%;
+
+
 }
 
 .post {
     background: #ffde7d;
+    max-width: 515px;
     padding: 15px;
     border: 5px solid #f6416c;
     margin-bottom: 15px;
@@ -42,11 +48,13 @@ max-width: 29%;
 }
 
 .post img {
-    max-width: 100%;
-    min-width: 15%;
-    border:3px dashed #000000;
-    border-radius: 200px;
+    margin: auto;
     margin-bottom: 15px;
+    max-width:500px;
+    max-height: 667px ;
+    width: auto;
+    border:3px dashed #000000;
+    border-radius: 300px;
 }
 .post a {
     color:crimson;
