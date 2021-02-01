@@ -21,7 +21,8 @@ body {
 }
 
 .wrapper {
-  width: 30%;
+min-width: 15%;
+max-width: 29%;
 }
 
 .post {
@@ -41,7 +42,7 @@ body {
 }
 
 .post img {
-    width: 100%;
+    max-width: 100%;
     min-width: 15%;
     border:3px dashed #000000;
     border-radius: 200px;
@@ -49,7 +50,6 @@ body {
 }
 .post a {
     color:crimson;
-
 }
 
 .contact{
