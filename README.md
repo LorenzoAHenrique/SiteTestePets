@@ -6,7 +6,7 @@
 
 - ### *Akira (ChowChow)* :feet::bear:.
 
-- ### *Oscar (Peixe Oscar)* :tropical_fish:.
+- ### *Dora (Jabuti)* :turtle:. 
 
-- ### *Dora (Jabuti)* :turtle:.
+- ### *Oscar (Peixe Oscar)* :tropical_fish:.
 
