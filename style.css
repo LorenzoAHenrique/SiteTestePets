@@ -1,19 +1,21 @@
 body {
     background: #00b8a9;
-    font-family: cursive ;
+    font-family: cursive;
     width: 900px;
     max-width: 900px;
     margin: auto;
 }
 
-.foto{
+.foto {
     border: 1px solid black;
     border-radius: 100px;
     width: 100px;
     height: 100px;
 }
 
-#title, .subtitle, .post_title {
+#title,
+.subtitle,
+.post_title {
     color: #f8f3d4;
 }
 
@@ -45,17 +47,18 @@ body {
 .post img {
     margin: auto;
     margin-bottom: 15px;
-    max-width:500px;
-    max-height: 667px ;
+    max-width: 500px;
+    max-height: 667px;
     width: auto;
-    border:3px dashed #000000;
+    border: 3px dashed #000000;
     border-radius: 300px;
 }
+
 .post a {
-    color:crimson;
+    color: crimson;
 }
 
-.contact{
+.contact {
     font-family: 'Times New Roman';
     color: black;
 }
