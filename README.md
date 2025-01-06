@@ -4,6 +4,8 @@
 
 - ### *Dakota (Border Collie)* :feet::sheep::ram::goat:.
 
+- ### *Amora (Border Lata)* :feet::dog2:.
+
 - ### *Akira (ChowChow)* :feet::bear:.
 
 - ### *Dora (Jabuti)* :turtle:. 
